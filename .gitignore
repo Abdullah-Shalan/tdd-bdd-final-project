@@ -1,6 +1,7 @@
 # Local environment
 .DS_Store
 Thumbs.db
+*.db
 
 # Vagrant
 .vagrant/
